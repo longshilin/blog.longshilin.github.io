@@ -51,9 +51,10 @@ jobs:
       env:
         TZ: Asia/Shanghai
       run: |
-        # cd gh-pages && ls | grep -v CNAME | xargs rm -rf && cd ..
+        cd gh-pages && ls | grep -v CNAME | xargs rm -rf && cd ..
         cp -rf main/public/* gh-pages
         cd gh-pages
+        # echo "blog.longshilin.com" > CNAME
         git config --global user.name "longshilin"
         git config --global user.email "583297550@qq.com"
         git add .
