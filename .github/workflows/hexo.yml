@@ -51,7 +51,8 @@ jobs:
       env:
         TZ: Asia/Shanghai
       run: |
-        cd gh-pages && ls | grep -v CNAME | xargs rm -rf && cd ..
+        # [此操作会改变文件的修改时间，会导致原本内容为修改的文件的时间也会被更新，不宜打开此操作；可适用与初始化时清理历史文件目录用] 
+        # cd gh-pages && ls | grep -v CNAME | xargs rm -rf && cd ..
         cp -rf main/public/* gh-pages
         cd gh-pages
         # echo "blog.longshilin.com" > CNAME
