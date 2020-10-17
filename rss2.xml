@@ -15,8 +15,30 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>个人博客</description>
-    <pubDate>Sat, 17 Oct 2020 17:49:23 GMT</pubDate>
+    <pubDate>Sat, 17 Oct 2020 18:04:05 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Sun Oct 18 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</title>
+      <link>https://blog.longshilin.com/Daily-2020-10-18-Daily/</link>
+      <guid>https://blog.longshilin.com/Daily-2020-10-18-Daily/</guid>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;这是开始记录生活的第一篇博客☝️&lt;/p&gt;
+
+          
+        
+      
+      </description>
+      
+      
+      <comments>https://blog.longshilin.com/Daily-2020-10-18-Daily/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Test</title>

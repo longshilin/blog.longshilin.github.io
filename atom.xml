@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.longshilin.com/"/>
-  <updated>2020-10-17T17:49:23.277Z</updated>
+  <updated>2020-10-17T18:04:05.992Z</updated>
   <id>https://blog.longshilin.com/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Sun Oct 18 2020 00:00:00 GMT+0000 (Coordinated Universal Time)</title>
+    <link href="https://blog.longshilin.com/Daily-2020-10-18-Daily/"/>
+    <id>https://blog.longshilin.com/Daily-2020-10-18-Daily/</id>
+    <published>2020-10-18T00:00:00.000Z</published>
+    <updated>2020-10-17T18:04:05.992Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这是开始记录生活的第一篇博客☝️&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Daily" scheme="https://blog.longshilin.com/categories/Daily/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Test</title>
     <link href="https://blog.longshilin.com/Demo-2020-10-18-Test/"/>
     <id>https://blog.longshilin.com/Demo-2020-10-18-Test/</id>
     <published>2020-10-18T00:00:00.000Z</published>
-    <updated>2020-10-17T17:49:23.277Z</updated>
+    <updated>2020-10-17T18:04:05.992Z</updated>
     
     <summary type="html">
     
