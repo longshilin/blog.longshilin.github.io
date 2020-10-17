@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://game.longshilin.com
+url: https://blog.longshilin.com
 root: /
 permalink: :title/
 permalink_defaults:
@@ -121,7 +121,7 @@ theme_config:
     #Demo: http://www.longshilin.com
   post_edit:
     enable: true
-    url: https://github.com/longshilin/game.longshilin.github.io/edit/master/source/ # Link for view source
+    url: https://github.com/longshilin/blog.longshilin.github.io/edit/master/source/ # Link for view source
   local_search:
     enable: true
   motion:
@@ -192,15 +192,15 @@ search:
 cdn:
   enable: true
   onlypost: false
-  url: //cdn.jsdelivr.net/gh/longshilin/game.longshilin.github.io@gh-pages
-  img_url: //cdn.jsdelivr.net/gh/longshilin/game.longshilin.github.io@gh-pages///
+  url: //cdn.jsdelivr.net/gh/longshilin/blog.longshilin.github.io@gh-pages
+  img_url: //cdn.jsdelivr.net/gh/longshilin/blog.longshilin.github.io@gh-pages///
 
 # hexo-next-utteranc
 ## https://github.com/theme-next/hexo-next-utteranc
 # Demo: https://utteranc.es/  http://trumandu.github.io/about/
 utteranc:
   enable: true
-  repo: longshilin/game.longshilin.github.io
+  repo: longshilin/blog.longshilin.github.io
   pathname: pathname
   # theme: github-light,github-dark,github-dark-orange
   theme: github-light

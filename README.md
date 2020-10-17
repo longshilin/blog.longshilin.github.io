@@ -1,4 +1,4 @@
-# game.longshilin.github.io
+# blog.longshilin.github.io
 
 
 ## Architecture
