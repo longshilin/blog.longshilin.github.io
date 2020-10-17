@@ -15,27 +15,28 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>个人博客</description>
-    <pubDate>Sat, 17 Oct 2020 17:15:09 GMT</pubDate>
+    <pubDate>Sat, 17 Oct 2020 17:49:23 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>longsl-website-custom-module Demo Introduction</title>
-      <link>https://blog.longshilin.com/Demo-2020-10-17-Demo-Introduction/</link>
-      <guid>https://blog.longshilin.com/Demo-2020-10-17-Demo-Introduction/</guid>
-      <pubDate>Sat, 17 Oct 2020 00:00:00 GMT</pubDate>
+      <title>Test</title>
+      <link>https://blog.longshilin.com/Demo-2020-10-18-Test/</link>
+      <guid>https://blog.longshilin.com/Demo-2020-10-18-Test/</guid>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 GMT</pubDate>
       <description>
       
-        &lt;h1 id=&quot;Base&quot;&gt;&lt;a href=&quot;#Base&quot; class=&quot;headerlink&quot; title=&quot;Base&quot;&gt;&lt;/a&gt;Base&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;Git clone this Repo.&lt;/li&gt;
-&lt;li&gt;Replace &lt;code&gt;longsl-website-custom-module&lt;/code&gt; to &lt;code&gt;YOUR-MODULE-NAME&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Create a empty branch &lt;code&gt;gh-pages&lt;/code&gt; for the website.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;Advance&quot;&gt;&lt;a href=&quot;#Advance&quot; class=&quot;headerlink&quot; title=&quot;Advance&quot;&gt;&lt;/a&gt;Advance&lt;/h1&gt;
+        
+        
+          
+          
+            &lt;h1 id=&quot;Base&quot;&gt;&lt;a href=&quot;#Base&quot; class=&quot;headerlink&quot;
+          
+        
       
       </description>
       
       
-      <comments>https://blog.longshilin.com/Demo-2020-10-17-Demo-Introduction/#disqus_thread</comments>
+      <comments>https://blog.longshilin.com/Demo-2020-10-18-Test/#disqus_thread</comments>
     </item>
     
   </channel>

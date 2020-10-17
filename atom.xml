@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.longshilin.com/"/>
-  <updated>2020-10-17T17:15:09.851Z</updated>
+  <updated>2020-10-17T17:49:23.277Z</updated>
   <id>https://blog.longshilin.com/</id>
   
   <author>
@@ -17,30 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>longsl-website-custom-module Demo Introduction</title>
-    <link href="https://blog.longshilin.com/Demo-2020-10-17-Demo-Introduction/"/>
-    <id>https://blog.longshilin.com/Demo-2020-10-17-Demo-Introduction/</id>
-    <published>2020-10-17T00:00:00.000Z</published>
-    <updated>2020-10-17T17:15:09.851Z</updated>
+    <title>Test</title>
+    <link href="https://blog.longshilin.com/Demo-2020-10-18-Test/"/>
+    <id>https://blog.longshilin.com/Demo-2020-10-18-Test/</id>
+    <published>2020-10-18T00:00:00.000Z</published>
+    <updated>2020-10-17T17:49:23.277Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Base&quot;&gt;&lt;a href=&quot;#Base&quot; class=&quot;headerlink&quot; title=&quot;Base&quot;&gt;&lt;/a&gt;Base&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;Git clone this Repo.&lt;/li&gt;
-&lt;li&gt;Replace &lt;code&gt;longsl-website-custom-module&lt;/code&gt; to &lt;code&gt;YOUR-MODULE-NAME&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Create a empty branch &lt;code&gt;gh-pages&lt;/code&gt; for the website.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&quot;Advance&quot;&gt;&lt;a href=&quot;#Advance&quot; class=&quot;headerlink&quot; title=&quot;Advance&quot;&gt;&lt;/a&gt;Advance&lt;/h1&gt;
+      
+      
+        
+        
+          &lt;h1 id=&quot;Base&quot;&gt;&lt;a href=&quot;#Base&quot; class=&quot;headerlink&quot;
+        
+      
     
     </summary>
     
     
       <category term="Demo" scheme="https://blog.longshilin.com/categories/Demo/"/>
     
-    
-      <category term="GitHub" scheme="https://blog.longshilin.com/tags/GitHub/"/>
-    
-      <category term="shell" scheme="https://blog.longshilin.com/tags/shell/"/>
     
   </entry>
   
