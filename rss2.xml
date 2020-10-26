@@ -15,7 +15,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>个人博客</description>
-    <pubDate>Mon, 26 Oct 2020 15:47:19 GMT</pubDate>
+    <pubDate>Mon, 26 Oct 2020 15:47:46 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -51,7 +51,7 @@
         
           
           
-            &lt;p&gt;这是我通过&lt;a href=&quot;https://stackedit.io/&quot; target=&quot;_blank&quot;
+            &lt;p&gt;这是我通过&lt;a href=&quot;https://stackedit.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;stackedit.io&lt;/a&gt;写的第一篇文章，
           
         
       
